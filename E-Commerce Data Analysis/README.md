@@ -1,5 +1,9 @@
 # E-Commerce Data Analysis
 
+## Visualization
+
+[Tableau Dashboard](https://public.tableau.com/profile/walter7144#!/vizhome/E-CommerceAnalysis_15978372527630/SalesOverview?publish=yes)
+
 ## Context
 
 This work is based on a data set of transnational sales from an UK-based non-store online retail.
