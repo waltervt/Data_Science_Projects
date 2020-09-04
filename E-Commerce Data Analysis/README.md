@@ -4,6 +4,10 @@
 
 [Tableau Dashboard](https://public.tableau.com/profile/walter7144#!/vizhome/E-CommerceAnalysis_15978372527630/SalesOverview?publish=yes)
 
+## Project File
+
+[Jupyter Noterbook](https://github.com/waltervt/Data_Science_Projects/blob/master/E-Commerce%20Data%20Analysis/E-Commerce_Data_Analysis.ipynb)
+
 ## Context
 
 This work is based on a data set of transnational sales from an UK-based non-store online retail.
