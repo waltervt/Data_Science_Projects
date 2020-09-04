@@ -4,7 +4,7 @@
 
 [Tableau Dashboard](https://public.tableau.com/profile/walter7144#!/vizhome/E-CommerceAnalysis_15978372527630/SalesOverview?publish=yes)
 
-## Project File
+## Project Files
 
 [Jupyter Noterbook](https://github.com/waltervt/Data_Science_Projects/blob/master/E-Commerce%20Data%20Analysis/E-Commerce_Data_Analysis.ipynb)
 
