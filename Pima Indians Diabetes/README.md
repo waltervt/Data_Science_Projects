@@ -6,4 +6,6 @@ The objective of the dataset is to diagnostically predict whether or not a patie
 
 In this analysis, my goal is to explore the unbalanced binary class and find a method that makes my prediction more assertive. I compare some models with the original data to **Undersampling Majority Class**, **Oversampling Minority Class**, **SMOTE** and **SMOTE combined with Undersampling**.
 
+<center><img src="images/pima_hist.png"/></center>
+
 This data set is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. It is available on **Kaggle** by the tittle ["Pima Indians Diabetes Database"](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
