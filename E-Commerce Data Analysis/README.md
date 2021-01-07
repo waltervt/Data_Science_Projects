@@ -16,3 +16,4 @@ Relevant notes:
 
 This data set is available on **The UCI Machine Learning Repository** by the tittle ["Online Retail"](https://archive.ics.uci.edu/ml/datasets/Online+Retail#)
 
+In this analysis, my goal is to explore the data, learn more about sales and find patterns.
